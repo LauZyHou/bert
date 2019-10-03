@@ -114,3 +114,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+food_model/*
+chinese*
+food*
+data/*
+output/*
